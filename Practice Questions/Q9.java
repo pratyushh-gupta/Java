@@ -21,6 +21,7 @@ class Q9{
     sc.nextLine();
     System.out.println("Enter String value: ");
     e = sc.nextLine();
+    sc.close();
 
     System.out.println(a);
     System.out.println(b);

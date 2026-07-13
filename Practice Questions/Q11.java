@@ -9,6 +9,7 @@ public class Q11 {
     a = sc.nextInt();
     System.out.println("Enter value for b: ");
     b = sc.nextInt();
+    sc.close();
 
     //Swapping logic Method 1: 
     a = a + b; // a = 10 + 20 = 30
